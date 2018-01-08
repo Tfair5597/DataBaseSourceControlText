@@ -1,0 +1,3 @@
+# DataBaseSourceControlText
+testing source control... for getting database code and winform code into source control...
+This is just a simple test in class for database source control in our projects.
