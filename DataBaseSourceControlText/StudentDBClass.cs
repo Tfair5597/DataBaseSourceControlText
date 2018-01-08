@@ -6,7 +6,28 @@ using System.Threading.Tasks;
 
 namespace DataBaseSourceControlText
 {
-    class StudentDBClass
+
+
+    /// <summary>
+    /// Will contain basic CRUD functionality for database project.
+    /// </summary>
+    static class StudentDBClass
     {
+
+        /// <summary>
+        /// Adds a student to database.
+        /// </summary>
+        public static void AddStudent()
+        {
+            throw new NotImplementedException();
+        }
+
+        /// <summary>
+        /// Gets all students in the current database.
+        /// </summary>
+        public static void GetAllStudents()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
